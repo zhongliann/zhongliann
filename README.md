@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?username=wthlian&color=orange)
+![](https://komarev.com/ghpvc/?username=wthlian&color=lughtgray)
